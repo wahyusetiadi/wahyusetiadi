@@ -64,8 +64,4 @@
 </div>
 
 
-###
 
-<img src="https://raw.githubusercontent.com/wahyusetiadi/wahyusetiadi/output/snake.svg" alt="Snake animation" />
-
-###
